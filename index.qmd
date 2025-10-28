@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Sarah Young"
 about:
   id: me
   template: broadside
@@ -10,7 +10,7 @@ about:
 
 ## Goals
 
-no ragrats 2
+no ragrats 
 
 ## Education
 
