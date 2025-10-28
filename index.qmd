@@ -5,7 +5,6 @@ about:
   template: broadside
   image: IMG_6571.jpeg
 
-
 ---
 
 :::{#me}
