@@ -3,7 +3,8 @@ title: "Sarah Young"
 about:
   id: me
   template: broadside
-  image: IMG_6571.jpeg
+  image: IMG_6571.RMD
+
 ---
 
 :::{#me}
